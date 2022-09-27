@@ -139,7 +139,7 @@ reset();
 </HEAD>
 
 <BODY>
-<fieldset>
+<fieldset> 
 <legend> Jogadores </legend>
 <label for="Jogador 1"> Jogador 1: </label>
 <input type="text" id="jogador1"/>
